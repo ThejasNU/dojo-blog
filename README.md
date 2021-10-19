@@ -1,3 +1,6 @@
+###About this project
+Did this project using reactjs inorder to practice reactjs and to get good at it
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
