@@ -1,4 +1,5 @@
-`About this project`
+`About this project:`
+
 Did this project using reactjs inorder to practice reactjs and to get good at it
 
 # Getting Started with Create React App
